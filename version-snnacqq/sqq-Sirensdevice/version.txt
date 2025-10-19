@@ -1,0 +1,10 @@
+4.0.3
+
+- Added vehicle spotlight system when available
+- Added vehicle strobe system when available
+- Added default settings system for non-configured vehicles
+- Added support for regular vehicle horn feature
+- Added editable language file for all texts
+
+Creator Name Snnacqq
+https://portal.cfx.re/assets/
