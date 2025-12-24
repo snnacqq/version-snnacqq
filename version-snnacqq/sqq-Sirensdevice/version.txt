@@ -1,11 +1,11 @@
-4.0.3
+4.0.4
 
-- Added vehicle spotlight system when available
-- Added vehicle strobe system when available
-- Added default settings system for non-configured vehicles
-- Added support for regular vehicle horn feature
-- Added editable language file for all texts
+- Added extra lights keybind system via config
+- Added support for multiple extra buttons (Extra / Extra2 / Extra3 / Extra4)
+- Added extra lights support inside vehicle setups
+- Added per-vehicle configuration for extra lights
+- Improved overall system performance and internal stability
 
 Creator Name Snnacqq
 
-https://portal.cfx.re/assets/
+https://portal.cfx.re/assets/granted-assets
