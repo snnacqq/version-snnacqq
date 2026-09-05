@@ -1,7 +1,19 @@
-5.0.0
+5.1.0
 
-- New
+- Added receipt printing from the device and from the payment reports
+- Added Settlement screen to withdraw the job safe from inside the device
+- Added esx_society support for the job safe
+- Added a setup check on start that tells you exactly what to fix in config.lua
+- Added a debug summary on start showing every detected system
+- Added the terminal serial to every transaction, so a reprint shows the original device
+- Fixed the print button not printing anything
+- Fixed items being given again after the inventory had already refused them
+- Fixed the job share disappearing silently when the society system was misconfigured
+- Fixed script errors on ESX after restarting the resource
+- Fixed items not being usable on ox_inventory
+- Fixed Regulator "Disabled" not disabling anything
+- Improved overall system performance and internal stability
 
-Creator Name Snnacqq
+Creator Name Sync
 
 https://portal.cfx.re/assets/granted-assets
